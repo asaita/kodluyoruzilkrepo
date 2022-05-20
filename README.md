@@ -26,4 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![ödev resmi](https://www.hizliresim.com/4k31gdj)
+![ödev resmi](https://i.hizliresim.com/4k31gdj.png)
